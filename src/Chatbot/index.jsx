@@ -6,6 +6,9 @@ import { ThemeProvider } from "styled-components";
 //https://lucasbassetti.com.br/react-simple-chatbot/#/
 //ctrl + C
 //npm run build
+//git add .
+//git commit -m "changes"
+//git push
 
 
 const BotRedirect = ({ url, message }) => {
