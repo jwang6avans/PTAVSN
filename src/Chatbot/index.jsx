@@ -37,7 +37,7 @@ const ChatBotHelper = () => {
   const steps = [
     {
       id: "1",
-      message: "Hey, I'm Casper and I am a virtual agent!",
+      message: "Hi there, I'm Casper and I am a virtual agent!",
       trigger: "2",
     },
     {
