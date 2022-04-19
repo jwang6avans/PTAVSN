@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PTAVSN/static/css/main.fc5c2c69.css",
+    "main.js": "/PTAVSN/static/js/main.5a636451.js",
+    "static/media/Animal Charity Best Friend.png": "/PTAVSN/static/media/Animal Charity Best Friend.c77287c1a2c24da90b2c.png",
+    "index.html": "/PTAVSN/index.html",
+    "main.fc5c2c69.css.map": "/PTAVSN/static/css/main.fc5c2c69.css.map",
+    "main.5a636451.js.map": "/PTAVSN/static/js/main.5a636451.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.5a636451.js"
+  ]
+}
