@@ -6,7 +6,9 @@ import { ThemeProvider } from "styled-components";
 //https://lucasbassetti.com.br/react-simple-chatbot/#/
 //ctrl + C
 //npm run build
+
 //link to how deploy react code -> https://www.youtube.com/watch?v=Ey_90l9GaAw&t=569s
+//https://blog.logrocket.com/8-ways-deploy-react-app-free/#vercel
 
 //push the edit to the netlify through github
 //git add .
