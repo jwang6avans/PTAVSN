@@ -7,6 +7,7 @@ import { ThemeProvider } from "styled-components";
 //ctrl + C
 //npm run build
 //link to how deploy react code -> https://www.youtube.com/watch?v=Ey_90l9GaAw&t=569s
+
 //push the edit to the netlify through github
 //git add .
 //git commit -m "changes"
